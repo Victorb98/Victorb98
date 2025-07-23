@@ -9,8 +9,8 @@
 - 💼 Open to entry-level cybersecurity roles | Let's talk if you're hiring
 
 ## 💻 Cybersecurity Projects:
+Linux 101 Basics https://github.com/Victorb98/Linux-101-basic-/tree/main
 
-- [ ] 
       
 
 ## 🏆 Certifications
