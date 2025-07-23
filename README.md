@@ -15,9 +15,9 @@
 
 ## 🏆 Certifications
 
-- [ ]  CompTIA Security+[CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/21394333/CompTIA.Security%2B.ce.certificate.pdf)
+- [ ]  CompTIA Security+
 
-- [ ]  Professional Google Cybersecurity[Final Google Cybersecurity Certificate.pdf](https://github.com/user-attachments/files/21394336/Final.Google.Cybersecurity.Certificate.pdf)
+- [ ]  Professional Google Cybersecurity
 
 
 ## 👋 Connect with me:
