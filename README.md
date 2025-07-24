@@ -11,6 +11,8 @@
 ## 💻 Cybersecurity Projects:
 Linux 101 Basics https://github.com/Victorb98/Linux-101-basic-/tree/main
 
+ShanghaiGroup-APT1-Analysis https://github.com/Victorb98/ShanghaiGroup-APT1-Detection/tree/main
+
       
 
 ## 🏆 Certifications
