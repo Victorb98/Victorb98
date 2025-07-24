@@ -20,6 +20,7 @@ Linux 101 Basics https://github.com/Victorb98/Linux-101-basic-/tree/main
 
 - [ ]  Professional Google Cybersecurity [GoogleCybersecurityCertificate_Badge20241208-26-utl3ck.pdf](https://github.com/user-attachments/files/21394497/GoogleCybersecurityCertificate_Badge20241208-26-utl3ck.pdf)
 
+- [ ]  Qualys Vulnerability Management
 
 
 ## 👋 Connect with me:
