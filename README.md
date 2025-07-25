@@ -17,7 +17,8 @@ ShanghaiGroup-APT1-Analysis https://github.com/Victorb98/ShanghaiGroup-APT1-Dete
 
 ## 🏆 Certifications
 
-- [ ]  CompTIA Security+ ![Security+-jpg](https://github.com/user-attachments/assets/dc655823-6562-462b-9e6b-3370c0fc7f73)
+- [ ]  CompTIA Security+ 
+ [Security+-jpg](https://github.com/user-attachments/assets/dc655823-6562-462b-9e6b-3370c0fc7f73)
 
 
 - [ ]  Professional Google Cybersecurity [GoogleCybersecurityCertificate_Badge20241208-26-utl3ck.pdf](https://github.com/user-attachments/files/21394497/GoogleCybersecurityCertificate_Badge20241208-26-utl3ck.pdf)
