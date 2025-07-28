@@ -15,6 +15,8 @@ ShanghaiGroup-APT1-Analysis https://github.com/Victorb98/ShanghaiGroup-APT1-Dete
 
 Detect & Dissect: Phishing Email Analysis in Action https://github.com/Victorb98/-Phishing-Email-Investigation-Project
 
+Botium Toys Security Audit Project https://github.com/Victorb98/-Botium-Toys-Security-Audit-Guide
+
       
 
 ## 🏆 Certifications
