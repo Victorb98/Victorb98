@@ -17,7 +17,7 @@ Detect & Dissect: Phishing Email Analysis in Action https://github.com/Victorb98
 
 Botium Toys Security Audit Project https://github.com/Victorb98/-Botium-Toys-Security-Audit-Guide
 
-      
+SOC-Analyst-Detection-Project-TryHackMe-Summit-Room https://github.com/Victorb98/-SOC-Analyst-Detection-Project-TryHackMe-Summit-Room/tree/main    
 
 ## 🏆 Certifications
 
