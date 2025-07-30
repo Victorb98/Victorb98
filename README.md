@@ -19,6 +19,8 @@ Botium Toys Security Audit Project https://github.com/Victorb98/-Botium-Toys-Sec
 
 SOC-Analyst-Detection-Project-TryHackMe-Summit-Room https://github.com/Victorb98/-SOC-Analyst-Detection-Project-TryHackMe-Summit-Room/tree/main    
 
+Phishing-Incident-Response-Playbook-Simulation https://github.com/Victorb98/-Phishing-Incident-Response-Playbook-Simulation-
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+ 
