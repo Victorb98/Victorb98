@@ -23,11 +23,12 @@ Phishing-Incident-Response-Playbook-Simulation https://github.com/Victorb98/-Phi
 
 ## 🏆 Certifications
 
-- [ ]  CompTIA Security+ 
- [Security+-jpg](https://github.com/user-attachments/assets/dc655823-6562-462b-9e6b-3370c0fc7f73)
+- [ ]  CompTIA Security+  [CompTIA Security+ ce certificate.pdf](https://github.com/user-attachments/files/21526964/CompTIA.Security%2B.ce.certificate.pdf)
 
 
-- [ ]  Professional Google Cybersecurity [GoogleCybersecurityCertificate_Badge20241208-26-utl3ck.pdf](https://github.com/user-attachments/files/21394497/GoogleCybersecurityCertificate_Badge20241208-26-utl3ck.pdf)
+
+- [ ]  Professional Google Cybersecurity  [Final Google Cybersecurity Certificate.pdf](https://github.com/user-attachments/files/21526935/Final.Google.Cybersecurity.Certificate.pdf)
+
 
 - [ ]  Qualys Vulnerability Management
 
