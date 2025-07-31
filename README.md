@@ -59,15 +59,16 @@ I’m curious, sceptical, and hungry to learn everything from automation to thre
 
 **🛠️ **Tools & Tech I Use (Still Learning)** **
 
-Splunk, Sigma, Wireshark, tcpdump
+Splunk & Sigma — Building detection rules and alerts to spot real threats 🎯🚨
 
-Linux (Ubuntu, Kali) & Windows environments
+Wireshark & tcpdump — Analyzing network traffic to catch sketchy activity 📡🔍
 
-Python scripting for automation 
+Linux (Ubuntu, Kali) & Windows — System hardening, command-line ninja moves, and troubleshooting 🐧🪟🔧
 
-VirtusTotal 
+Python Scripting — Automating repetitive SOC tasks and log parsing 🤖📝
 
-TryHackMe & Hack The Box labs for continuous learning
+VirusTotal — Investigating suspicious files and URLs with threat intelligence 🔎🦠
 
+TryHackMe & Hack The Box — Hands-on labs and challenges for continuous skill grinding 🎮🔥
 
 
