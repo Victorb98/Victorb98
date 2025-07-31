@@ -9,17 +9,23 @@
 - 💼 Open to entry-level cybersecurity roles | Let's talk if you're hiring
 
 ## 💻 Cybersecurity Projects:
-Linux 101 Basics https://github.com/Victorb98/Linux-101-basic-/tree/main
+Linux 101 Basics, Mastered essential Linux commands and system hardening techniques to build a solid foundation for secure environments 🐧🔐.
+ https://github.com/Victorb98/Linux-101-basic-/tree/main
 
-ShanghaiGroup-APT1-Analysis https://github.com/Victorb98/ShanghaiGroup-APT1-Detection/tree/main
+ShanghaiGroup-APT1-Analysis, Analysed APT1 tactics and created actionable detection strategies to spot advanced persistent threats 🎯🕵️‍♂️.
+https://github.com/Victorb98/ShanghaiGroup-APT1-Detection/tree/main
 
-Detect & Dissect: Phishing Email Analysis in Action https://github.com/Victorb98/-Phishing-Email-Investigation-Project
+Detect & Dissect: Phishing Email Analysis in Action, Investigated real phishing emails step-by-step, uncovering indicators of compromise and teaching containment methods 📧🔍🔥. 
+https://github.com/Victorb98/-Phishing-Email-Investigation-Project
 
-Botium Toys Security Audit Project https://github.com/Victorb98/-Botium-Toys-Security-Audit-Guide
+Botium Toys Security Audit Project, Conducted a full security audit on Botium Toys’ systems, identifying vulnerabilities and recommending fixes 🧸🛡️✅.   
+https://github.com/Victorb98/-Botium-Toys-Security-Audit-Guide
 
-SOC-Analyst-Detection-Project-TryHackMe-Summit-Room https://github.com/Victorb98/-SOC-Analyst-Detection-Project-TryHackMe-Summit-Room/tree/main    
+SOC-Analyst-Detection-Project-TryHackMe-Summit-Room, Developed detection and alert rules based on real-world attack scenarios using Splunk and Sigma queries 📊🚨💻.  
+https://github.com/Victorb98/-SOC-Analyst-Detection-Project-TryHackMe-Summit-Room/tree/main    
 
-Phishing-Incident-Response-Playbook-Simulation https://github.com/Victorb98/-Phishing-Incident-Response-Playbook-Simulation-
+Phishing-Incident-Response-Playbook-Simulation, Created a practical playbook to guide incident response teams through phishing attack identification and mitigation 📝⚡🔒. 
+https://github.com/Victorb98/-Phishing-Incident-Response-Playbook-Simulation-
 
 ## 🏆 Certifications
 
@@ -31,6 +37,11 @@ Phishing-Incident-Response-Playbook-Simulation https://github.com/Victorb98/-Phi
 
 
 - [ ]  Qualys Vulnerability Management
+
+
+- [ ] Competent in Linux (Command Line & OS)
+<img width="474" height="357" alt="linux 101 badge tryhackme" src="https://github.com/user-attachments/assets/7e2d7859-bc46-4b62-bf9a-1ae4abb6be11" />
+
 
 
 ## 👋 Connect with me:
@@ -46,7 +57,7 @@ It’s not about the glam or headlines. It’s about solving puzzles, outsmartin
 I’m curious, sceptical, and hungry to learn everything from automation to threat intel. I don’t just react to attacks. I try to anticipate them, understand the attacker’s mind, and stay one step ahead. It’s a grind, but that’s what keeps me going.
 
 
-**🛠️ Tools & Tech I Use (Still Learning) **
+**🛠️ **Tools & Tech I Use (Still Learning)** **
 
 Splunk, Sigma, Wireshark, tcpdump
 
