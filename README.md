@@ -39,5 +39,24 @@ Phishing-Incident-Response-Playbook-Simulation https://github.com/Victorb98/-Phi
 - [GitHub](https://github.com/Victorb98)
 - [Email] (victorbabatunde1234@gmail.com)
 
+**⚡ Why I Love Cybersecurity**
+
+It’s not about the glam or headlines. It’s about solving puzzles, outsmarting threats, and building defences that work. I’m drawn to protecting what matters with a mix of old school grit and new school tech. I respect the fundamentals of layered security, vigilance, and solid processes — because they stand the test of time.
+
+I’m curious, sceptical, and hungry to learn everything from automation to threat intel. I don’t just react to attacks. I try to anticipate them, understand the attacker’s mind, and stay one step ahead. It’s a grind, but that’s what keeps me going.
+
+
+**🛠️ Tools & Tech I Use (Still Learning) **
+
+Splunk, Sigma, Wireshark, tcpdump
+
+Linux (Ubuntu, Kali) & Windows environments
+
+Python scripting for automation 
+
+VirtusTotal 
+
+TryHackMe & Hack The Box labs for continuous learning
+
 
 
