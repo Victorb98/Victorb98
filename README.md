@@ -52,9 +52,9 @@ https://github.com/Victorb98/-Phishing-Incident-Response-Playbook-Simulation-
 
 ## 👋 Connect with me:
 
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile_url_here)
+- Linkedin https://www.linkedin.com/in/victor-babatunde-90037a378/  
 - [GitHub](https://github.com/Victorb98)
-- [Email] (victorbabatunde1234@gmail.com)
+- Email(victorbabatunde1234@gmail.com)
 
 **⚡ Why I Love Cybersecurity**
 
