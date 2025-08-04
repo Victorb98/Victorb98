@@ -27,6 +27,9 @@ https://github.com/Victorb98/-SOC-Analyst-Detection-Project-TryHackMe-Summit-Roo
 Phishing-Incident-Response-Playbook-Simulation, Created a practical playbook to guide incident response teams through phishing attack identification and mitigation 📝⚡🔒. 
 https://github.com/Victorb98/-Phishing-Incident-Response-Playbook-Simulation-
 
+Cyber-Threat-Intelligence-CTI-Analysis-with-SIEM, This project showcases my ability to perform Cyber Threat Intelligence (CTI) analysis by investigating a simulated security incident within a SIEM (Security Information and Event Management) environment. 🧠🛡💻
+https://github.com/Victorb98/-Cyber-Threat-Intelligence-CTI-Analysis-with-SIEM
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+
