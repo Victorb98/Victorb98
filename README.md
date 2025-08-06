@@ -1,6 +1,6 @@
 # Hi, I'm Victor! 👋
 
-### Aspiring Security Analyst | Blue Team Enthusiast | SOC Projects in Progress
+### Developing Security Analyst | Blue Team Enthusiast | SOC Projects in Progress
 
 - 🛡️ Building skills in threat detection, incident response, and network defence
 - 📚 Learning by doing: TryHackMe, Hack The Box, custom SOC lab, and real-world labs
