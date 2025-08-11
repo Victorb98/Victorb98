@@ -30,6 +30,9 @@ https://github.com/Victorb98/-Phishing-Incident-Response-Playbook-Simulation-
 Cyber-Threat-Intelligence-CTI-Analysis-with-SIEM, This project showcases my ability to perform Cyber Threat Intelligence (CTI) analysis by investigating a simulated security incident within a SIEM (Security Information and Event Management) environment. 🧠🛡💻
 https://github.com/Victorb98/-Cyber-Threat-Intelligence-CTI-Analysis-with-SIEM
 
+Network-Traffic-Analysis-🛡️IDS-IPS-Simulation, This project is a hands-on simulation designed to demonstrate core skills in network security, traffic analysis, and the practical application of Intrusion Detection/Prevention Systems (IDS/IPS).
+https://github.com/Victorb98/-Network-Traffic-Analysis-IDS-IPS-Simulation
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+
