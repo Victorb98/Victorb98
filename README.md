@@ -33,6 +33,9 @@ https://github.com/Victorb98/-Cyber-Threat-Intelligence-CTI-Analysis-with-SIEM
 Network-Traffic-Analysis-🛡️IDS-IPS-Simulation, This project is a hands-on simulation designed to demonstrate core skills in network security, traffic analysis, and the practical application of Intrusion Detection/Prevention Systems (IDS/IPS).
 https://github.com/Victorb98/-Network-Traffic-Analysis-IDS-IPS-Simulation
 
+🛡️ Snort HTTP IDS 📡🔍, This project demonstrates my proficiency in network security and threat analysis using Snort, a powerful, open-source Intrusion Detection System (IDS). By analysing network packet capture (.pcap) files, I created custom rules to identify specific network behaviours, analyse packet details, and detect potential threats.
+https://github.com/Victorb98/-snort-http-ids-/blob/main/README.md
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+
