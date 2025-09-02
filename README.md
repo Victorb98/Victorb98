@@ -36,6 +36,9 @@ https://github.com/Victorb98/-Network-Traffic-Analysis-IDS-IPS-Simulation
 🛡️ Snort HTTP IDS 📡🔍, This project demonstrates my proficiency in network security and threat analysis using Snort, a powerful, open-source Intrusion Detection System (IDS). By analysing network packet capture (.pcap) files, I created custom rules to identify specific network behaviours, analyse packet details, and detect potential threats.
 https://github.com/Victorb98/-snort-http-ids-/blob/main/README.md
 
+🔍 Wireshark Packet Analysis Project📡, This project showcases my ability to use Wireshark, a powerful network protocol analyzer, to perform an in-depth analysis of a packet capture file.
+https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README.md
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+
