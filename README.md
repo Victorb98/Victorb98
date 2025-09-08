@@ -54,7 +54,14 @@ https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README
 
 
 
-- [ ]  Qualys Vulnerability Management
+
+- [ ]  Qualys Vulnerability
+
+![Qualys Vulnerability Management Cert Victor Babatunde_page-0001](https://github.com/user-attachments/assets/d544e302-af7e-4908-a38b-48e8b8da1b6d)
+
+  
+
+
 
 
 - [ ] Competent in Linux (Command Line & OS)
