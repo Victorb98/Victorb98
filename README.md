@@ -48,6 +48,20 @@ https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README
 
 
 
+- [ ]  TRYHACKME SOC Level 1
+
+- [ ]<img width="598" height="416" alt="Screenshot 2025-09-21 115920" src="https://github.com/user-attachments/assets/91fae6e0-f8dc-483c-8eab-04afae20a1ad" />
+
+
+
+
+
+
+
+
+
+
+
 - [ ]  Professional Google Cybersecurity
 
 - [ ]  <img width="851" height="645" alt="Professional Google Certificate Screenshot " src="https://github.com/user-attachments/assets/090afe4a-7482-4944-a531-b25e9dfb4d88" />
