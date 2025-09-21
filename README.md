@@ -50,12 +50,7 @@ https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README
 
 - [ ]  TRYHACKME SOC Level 1
 
-- [ ]<img width="598" height="416" alt="Screenshot 2025-09-21 115920" src="https://github.com/user-attachments/assets/91fae6e0-f8dc-483c-8eab-04afae20a1ad" />
-
-
-
-
-
+<img width="1806" height="1278" alt="SOC LEVEL 1 Certificate-1" src="https://github.com/user-attachments/assets/f0910fd5-d3a1-438e-b7f4-ed6652c05bc0" />
 
 
 
