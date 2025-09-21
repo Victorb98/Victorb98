@@ -39,6 +39,10 @@ https://github.com/Victorb98/-snort-http-ids-/blob/main/README.md
 🔍 Wireshark Packet Analysis Project📡, This project showcases my ability to use Wireshark, a powerful network protocol analyzer, to perform an in-depth analysis of a packet capture file.
 https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README.md
 
+🛡️Splunk-Basics-VPN Log Analyser Dashboard 🎯, This project is a slick dashboard built to analyze VPN event logs using Splunk. It digs into IP activity, user events, and country data, turning raw logs into actionable insights.
+https://github.com/Victorb98/Splunk-Basics-
+
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+
