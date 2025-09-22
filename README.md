@@ -95,18 +95,18 @@ It’s not about the glam or headlines. It’s about solving puzzles, outsmartin
 I’m curious, sceptical, and hungry to learn everything from automation to threat intel. I don’t just react to attacks. I try to anticipate them, understand the attacker’s mind, and stay one step ahead. It’s a grind, but that’s what keeps me going.
 
 
-**🛠️ **Tools & Tech I Use (Still Learning)** **
+**🛠️ **Tools & Tech I Use (Continuously Learning)** **
 
-Splunk & Sigma — Building detection rules and alerts to spot real threats 🎯🚨
+Splunk & Sigma, Building detection rules and alerts to spot real threats 🎯🚨
 
-Wireshark & tcpdump - Analysing network traffic to catch sketchy activity 📡🔍
+Wireshark & tcpdump, Analysing network traffic to catch sketchy activity 📡🔍
 
-Linux (Ubuntu, Kali) & Windows — System hardening, command-line ninja moves, and troubleshooting 🐧🪟🔧
+Linux (Ubuntu, Kali) & Windows, System hardening, command-line ninja moves, and troubleshooting 🐧🪟🔧
 
-Python Scripting — Automating repetitive SOC tasks and log parsing 🤖📝
+Python Scripting, Automating repetitive SOC tasks and log parsing 🤖📝
 
-VirusTotal — Investigating suspicious files and URLs with threat intelligence 🔎🦠
+VirusTotal, Investigating suspicious files and URLs with threat intelligence 🔎🦠
 
-TryHackMe & Hack The Box — Hands-on labs and challenges for continuous skill grinding 🎮🔥
+TryHackMe & Hack The Box, Hands-on labs and challenges for continuous skill grinding 🎮🔥
 
 
