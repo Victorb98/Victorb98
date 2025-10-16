@@ -42,6 +42,10 @@ https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README
 🛡️Splunk-Basics-VPN Log Analyser Dashboard 🎯, This project is a slick dashboard built to analyze VPN event logs using Splunk. It digs into IP activity, user events, and country data, turning raw logs into actionable insights.
 https://github.com/Victorb98/Splunk-Basics-
 
+🎯 Advanced Threat Hunting with Sysmon and PowerShell, This project showcases hands-on expertise in Digital Forensics and Incident Response (DFIR) by analyzing Windows Event Logs collected via Sysmon. 
+https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-and-PowerShell
+
+
 
 ## 🏆 Certifications
 
