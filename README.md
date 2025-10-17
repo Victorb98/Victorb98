@@ -45,6 +45,10 @@ https://github.com/Victorb98/Splunk-Basics-
 🎯 Advanced Threat Hunting with Sysmon and PowerShell, This project showcases hands-on expertise in Digital Forensics and Incident Response (DFIR) by analyzing Windows Event Logs collected via Sysmon. 
 https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-and-PowerShell
 
+🎯 Advanced Threat Hunting with Sysmon and PowerShell Part 2, This phase continues my hands-on forensic analysis using Sysmon and PowerShell, diving deeper into registry-based payloads, process access analysis, and adversary network communication.
+https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-PowerShell-Part-2
+
+
 
 
 ## 🏆 Certifications
