@@ -48,6 +48,10 @@ https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-and-PowerShell
 🎯 Advanced Threat Hunting with Sysmon and PowerShell📡🔍 PART 2, This phase continues my hands-on forensic analysis using Sysmon and PowerShell, diving deeper into registry-based payloads, process access analysis, and adversary network communication.
 https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-PowerShell-Part-2
 
+🛡️Proactive Threat-Hunting and Digital-Forensics with Splunk🔍, This project showcases a real-world incident investigation using Splunk Enterprise to perform log analysis and digital forensics. 
+https://github.com/Victorb98/-Proactive-Threat-Hunting-Digital-Forensics-with-Splunk-Enterprise/blob/main/README.md
+
+
 
 
 
