@@ -5,7 +5,7 @@
 - 🛡️ Building skills in threat detection, incident response, and network defence
 - 📚 Learning by doing: TryHackMe, Hack The Box, custom SOC lab, and real-world labs
 - 🔍 Focused on SIEM, Active Directory, and Security Automation
-- 💡 Always questioning, always improving – I don't just want certs, I want mastery
+- 💡 Always questioning, always improving | I don't just want certs, I want mastery
 - 💼 Open to entry-level cybersecurity roles | Let's talk if you're hiring
 
 ## 💻 Cybersecurity Projects:
