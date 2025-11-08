@@ -51,6 +51,10 @@ https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-PowerShell-Par
 🛡️Proactive Threat-Hunting and Digital-Forensics with Splunk🔍, This project showcases a real-world incident investigation using Splunk Enterprise to perform log analysis and digital forensics. 
 https://github.com/Victorb98/-Proactive-Threat-Hunting-Digital-Forensics-with-Splunk-Enterprise/blob/main/README.md
 
+🎯 APT28 (Fancy Bear) – MITRE ATT&CK® TTPs Analysis,This project breaks down how APT28 (aka Fancy Bear) operates using the MITRE ATT&CK® Framework. 
+https://github.com/Victorb98/-APT28-Fancy-Bear-MITRE-ATT-CK-TTPs-Analysis/blob/main/README.md
+
+
 
 
 
