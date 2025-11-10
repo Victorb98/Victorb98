@@ -54,7 +54,7 @@ https://github.com/Victorb98/-Proactive-Threat-Hunting-Digital-Forensics-with-Sp
 🎯 APT28 (Fancy Bear) – MITRE ATT&CK® TTPs Analysis,This project breaks down how APT28 (aka Fancy Bear) operates using the MITRE ATT&CK® Framework. 
 https://github.com/Victorb98/-APT28-Fancy-Bear-MITRE-ATT-CK-TTPs-Analysis/blob/main/README.md
 
-🧐Advanced Endpoint Detection Response EDR Investigation Project, This project demonstrates a full EDR investigation workflow analyzing how attackers perform credential dumping persistence and data exfiltration across multiple endpoints.
+🕵🏽‍♂️🧐Advanced Endpoint Detection Response EDR Investigation Project, This project demonstrates a full EDR investigation workflow analyzing how attackers perform credential dumping persistence and data exfiltration across multiple endpoints.
 https://github.com/Victorb98/-Advanced-Endpoint-Detection-Response-EDR-Investigation-Project/blob/main/README.md
 
 
