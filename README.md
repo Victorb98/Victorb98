@@ -60,6 +60,8 @@ https://github.com/Victorb98/-Advanced-Endpoint-Detection-Response-EDR-Investiga
 🔍Advanced Malware Classification & SOC Triage Analysis Project. This project walks through the classification of multiple malware behaviours using real-world-style alerts.
 https://github.com/Victorb98/-Malware-Classification-Threat-Analysis-Project
 
+🛡🧐Humans The Ultimate Attack-Vector Social-Engineering Case-Study. This project explores how attackers target people, why humans remain the weakest link, and how security teams can detect and mitigate these attacks.
+https://github.com/Victorb98/-Humans-The-Ultimate-Attack-Vector-Social-Engineering-Case-Study/blob/main/README.md
 
 
 
