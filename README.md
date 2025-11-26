@@ -63,6 +63,11 @@ https://github.com/Victorb98/-Malware-Classification-Threat-Analysis-Project
 🛡🧐Humans The Ultimate Attack-Vector Social-Engineering Case-Study. This project explores how attackers target people, why humans remain the weakest link, and how security teams can detect and mitigate these attacks.
 https://github.com/Victorb98/-Humans-The-Ultimate-Attack-Vector-Social-Engineering-Case-Study/blob/main/README.md
 
+🕵🏽‍♂️🔍Systems Attack-Vectors Real-World-SOC-Analyst-Case-Study.This project breaks down how attackers target different systems, how misconfigurations create hidden weaknesses, and why system value matters just as much as system vulnerability.
+https://github.com/Victorb98/-Systems-Attack-Vectors-Real-World-SOC-Analyst-Case-Study/blob/main/README.md
+
+
+
 
 
 
