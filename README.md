@@ -66,8 +66,8 @@ https://github.com/Victorb98/-Humans-The-Ultimate-Attack-Vector-Social-Engineeri
 🕵🏽‍♂️🔍Systems Attack-Vectors Real-World-SOC-Analyst-Case-Study.This project breaks down how attackers target different systems, how misconfigurations create hidden weaknesses, and why system value matters just as much as system vulnerability.
 https://github.com/Victorb98/-Systems-Attack-Vectors-Real-World-SOC-Analyst-Case-Study/blob/main/README.md
 
-
-
+🛡️Active Directory Hardening and Security Controls Project. This project is a hands-on breakdown of how to harden an Active Directory environment using real Windows Server configurations. 
+https://github.com/Victorb98/-Active-Directory-Hardening-and-Security-Controls-Project/blob/main/README.md
 
 
 
