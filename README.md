@@ -69,6 +69,9 @@ https://github.com/Victorb98/-Systems-Attack-Vectors-Real-World-SOC-Analyst-Case
 🛡️Active Directory Hardening and Security Controls Project. This project is a hands-on breakdown of how to harden an Active Directory environment using real Windows Server configurations. 
 https://github.com/Victorb98/-Active-Directory-Hardening-and-Security-Controls-Project/blob/main/README.md
 
+🔐 Identity, Authentication & Access Control (IAAA), Practical IAM Foundations. This project demonstrates a practical, scenario-driven understanding of Identity & Access Management (IAM) using the IAAA security model: Identification → Authentication → Authorisation → Accountability. 
+https://github.com/Victorb98/-Identity-Authentication-Access-Control-IAAA-Practical-IAM-Foundations/blob/main/README.md
+
 
 
 ## 🏆 Certifications
