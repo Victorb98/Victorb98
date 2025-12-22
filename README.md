@@ -9,7 +9,7 @@
 - 💼 Open to entry-level cybersecurity roles | Let's talk if you're hiring
 
 ## 💻 Cybersecurity Projects:
-Linux 101 Basics, Mastered essential Linux commands and system hardening techniques to build a solid foundation for secure environments 🐧🔐.
+Linux 101 Basics, mastered essential Linux commands and system hardening techniques to build a solid foundation for secure environments 🐧🔐.
  https://github.com/Victorb98/Linux-101-basic-/tree/main
 
 ShanghaiGroup-APT1-Analysis, Analysed APT1 tactics and created actionable detection strategies to spot advanced persistent threats 🎯🕵️‍♂️.
@@ -36,13 +36,13 @@ https://github.com/Victorb98/-Network-Traffic-Analysis-IDS-IPS-Simulation
 🛡️ Snort HTTP IDS 📡🔍, This project demonstrates my proficiency in network security and threat analysis using Snort, a powerful, open-source Intrusion Detection System (IDS). By analysing network packet capture (.pcap) files, I created custom rules to identify specific network behaviours, analyse packet details, and detect potential threats.
 https://github.com/Victorb98/-snort-http-ids-/blob/main/README.md
 
-🔍 Wireshark Packet Analysis Project📡, This project showcases my ability to use Wireshark, a powerful network protocol analyzer, to perform an in-depth analysis of a packet capture file.
+🔍 Wireshark Packet Analysis Project📡, This project showcases my ability to use Wireshark, a powerful network protocol analyser, to perform an in-depth analysis of a packet capture file.
 https://github.com/Victorb98/-Wireshark-Packet-Analysis-Project/blob/main/README.md
 
-🛡️Splunk-Basics-VPN Log Analyser Dashboard 🎯, This project is a slick dashboard built to analyze VPN event logs using Splunk. It digs into IP activity, user events, and country data, turning raw logs into actionable insights.
+🛡️Splunk-Basics-VPN Log Analyser Dashboard 🎯, This project is a slick dashboard built to analyse VPN event logs using Splunk. It digs into IP activity, user events, and country data, turning raw logs into actionable insights.
 https://github.com/Victorb98/Splunk-Basics-
 
-🎯 Advanced Threat Hunting with Sysmon and PowerShell, This project showcases hands-on expertise in Digital Forensics and Incident Response (DFIR) by analyzing Windows Event Logs collected via Sysmon. 
+🎯 Advanced Threat Hunting with Sysmon and PowerShell. This project showcases hands-on expertise in Digital Forensics and Incident Response (DFIR) by analysing Windows Event Logs collected via Sysmon. 
 https://github.com/Victorb98/-Advanced-Threat-Hunting-with-Sysmon-and-PowerShell
 
 🎯 Advanced Threat Hunting with Sysmon and PowerShell📡🔍 PART 2, This phase continues my hands-on forensic analysis using Sysmon and PowerShell, diving deeper into registry-based payloads, process access analysis, and adversary network communication.
@@ -71,6 +71,11 @@ https://github.com/Victorb98/-Active-Directory-Hardening-and-Security-Controls-P
 
 🔐 Identity, Authentication & Access Control (IAAA), Practical IAM Foundations. This project demonstrates a practical, scenario-driven understanding of Identity & Access Management (IAM) using the IAAA security model: Identification → Authentication → Authorisation → Accountability. 
 https://github.com/Victorb98/-Identity-Authentication-Access-Control-IAAA-Practical-IAM-Foundations/blob/main/README.md
+
+🔐 Identity & Access Management (IAM), Access Control & SSO in Practice (Part 2). This project breaks down core IAM concepts in a practical, real-world way, not theory soup.
+It covers how users authenticate, how access is authorised, and how organisations manage identities securely at scale using SSO, access control models (DAC, RBAC, MAC), and IAM vs IdM fundamentals.
+https://github.com/Victorb98/Identity-Access-Management-IAM-Access-Control-SSO-in-Practice-Part-2-
+
 
 
 
