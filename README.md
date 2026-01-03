@@ -76,6 +76,8 @@ https://github.com/Victorb98/-Identity-Authentication-Access-Control-IAAA-Practi
 It covers how users authenticate, how access is authorised, and how organisations manage identities securely at scale using SSO, access control models (DAC, RBAC, MAC), and IAM vs IdM fundamentals.
 https://github.com/Victorb98/Identity-Access-Management-IAM-Access-Control-SSO-in-Practice-Part-2-
 
+🛡️ Recovering Active Directory After a Security Incident. This project simulates a real-world Active Directory compromise and documents the full incident response lifecycle from detection and investigation to containment and secure recovery.
+https://github.com/Victorb98/-Recovering-Active-Directory-After-a-Security-Incident/blob/main/README.md
 
 
 
