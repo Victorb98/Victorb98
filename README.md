@@ -1,6 +1,6 @@
 # Hi, I'm Victor! 👋
 
-### Cybersecurity & Identity Practitioner| Security Operations & Identity Projects |
+### Cybersecurity & Identity Practitioner | Security Operations & Identity Projects |
 - 🛡️ Building skills in threat detection, incident response, and network defence
 - 📚 Learning by doing: TryHackMe, Hack The Box, custom SOC lab, and real-world labs
 - 🔍 Focused on SIEM, Active Directory, and Security Automation
