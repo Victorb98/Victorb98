@@ -133,18 +133,32 @@ It’s not about the glam or headlines. It’s about solving puzzles, outsmartin
 I’m curious, sceptical, and hungry to learn everything from automation to threat intel. I don’t just react to attacks. I try to anticipate them, understand the attacker’s mind, and stay one step ahead. It’s a grind, but that’s what keeps me going.
 
 
-**🛠️ **Tools & Tech I Use (Continuously Learning)** **
+🛠️ Tools & Tech I Use (Always Learning, Always Building)
 
-Splunk & Sigma, Building detection rules and alerts to spot real threats 🎯🚨
+🔐 Identity & Access Management (IAM)
+Entra ID / Active Directory
+Managing access, enforcing least privilege, MFA, user lifecycle (Joiner Mover Leaver), and keeping identities from becoming the front door for attackers.
 
-Wireshark & tcpdump, Analysing network traffic to catch sketchy activity 📡🔍
+🛡️ Detection & Security Operations (SOC)
+Splunk & Sigma
+Writing detection rules, tuning alerts, and hunting for real threats instead of just watching dashboards blink.
 
-Linux (Ubuntu, Kali) & Windows, System hardening, command-line ninja moves, and troubleshooting 🐧🪟🔧
+Wireshark & tcpdump
+Deep diving network traffic to catch suspicious behaviour and sneaky anomalies.
 
-Python Scripting, Automating repetitive SOC tasks and log parsing 🤖📝
+VirusTotal
+Investigating malicious files and sketchy URLs with threat intelligence context.
 
-VirusTotal, Investigating suspicious files and URLs with threat intelligence 🔎🦠
+🧠 Systems & Platforms
+Linux (Ubuntu, Kali) & Windows
+Hardening systems, command line sorcery, and troubleshooting when everything’s on fire.
 
-TryHackMe & Hack The Box, Hands-on labs and challenges for continuous skill grinding 🎮🔥
+🤖 Automation & Scripting
+Python
+Automating repetitive SOC workflows, parsing logs, and making life easier so I can focus on actual security work.
+
+🎮 Hands-On Practice & Labs
+TryHackMe & Hack The Box
+Continuous skill grinding through real-world attack and defence scenarios, because theory without scars is just vibes.
 
 
