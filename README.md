@@ -1,11 +1,22 @@
 # Hi, I'm Victor! 👋
 
 ### Cybersecurity & Identity Practitioner | Security Operations & Identity Projects |
-- 🛡️ Building skills in threat detection, incident response, and network defence
-- 📚 Learning by doing: TryHackMe, Hack The Box, custom SOC lab, and real-world labs
-- 🔍 Focused on SIEM, Active Directory, and Security Automation
-- 💡 Always questioning, always improving | I don't just want certs, I want mastery
-- 💼 Open to entry-level cybersecurity roles | Let's talk if you're hiring
+🛡️ Security Operations & Identity | SOC + IAM Focus
+
+Actively building hands-on expertise in threat detection, incident response, identity security, and network defence where real security battles are won.
+
+📚 Learning by doing, always:
+TryHackMe • Hack The Box • Custom SOC labs • Active Directory labs • Real-world attack simulations
+
+🔍 Core focus areas:
+SIEM detection & alerting • Active Directory & IAM • Log analysis • Security automation • Incident response workflows
+
+💡 Mindset:
+Relentlessly curious. Allergic to surface-level knowledge.
+I don’t collect certs. I build mastery.
+
+💼 Open to entry-level & junior cybersecurity roles including SOC Analyst, IAM, and Security Analyst.
+If you’re building a serious security team, let’s talk.
 
 ## 💻 Cybersecurity Projects:
 Linux 101 Basics, mastered essential Linux commands and system hardening techniques to build a solid foundation for secure environments 🐧🔐.
