@@ -89,6 +89,8 @@ https://github.com/Victorb98/Identity-Access-Management-IAM-Access-Control-SSO-i
 🛡️ Recovering Active Directory After a Security Incident. This project simulates a real-world Active Directory compromise and documents the full incident response lifecycle from detection and investigation to containment and secure recovery.
 https://github.com/Victorb98/-Recovering-Active-Directory-After-a-Security-Incident/blob/main/README.md
 
+🔐 Inside the Mind of a Security Engineer: Building Real-World Cyber Defence Foundations. This project explores the real responsibilities, principles, and mindset of a modern Security Engineer, the role responsible for protecting an organisation’s digital world. 
+https://github.com/Victorb98/-Inside-the-Mind-of-a-Security-Engineer-Building-Real-World-Cyber-Defense-Foundations/blob/main/README.md
 
 
 ## 🏆 Certifications
