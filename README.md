@@ -92,6 +92,9 @@ https://github.com/Victorb98/-Recovering-Active-Directory-After-a-Security-Incid
 🔐 Inside the Mind of a Security Engineer: Building Real-World Cyber Defence Foundations. This project explores the real responsibilities, principles, and mindset of a modern Security Engineer, the role responsible for protecting an organisation’s digital world. 
 https://github.com/Victorb98/-Inside-the-Mind-of-a-Security-Engineer-Building-Real-World-Cyber-Defense-Foundations/blob/main/README.md
 
+🔐 Security Principles, Models & Secure Design. This project is a hands-on exploration of foundational cybersecurity principles, security models, and secure system design concepts, completed through interactive labs and scenario-based questions.
+https://github.com/Victorb98/-Security-Principles-Models-Secure-Design/blob/main/README.md
+
 
 ## 🏆 Certifications
 
