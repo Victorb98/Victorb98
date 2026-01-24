@@ -82,17 +82,17 @@ https://github.com/Victorb98/-Active-Directory-Hardening-and-Security-Controls-P
 🔐 Identity, Authentication & Access Control (IAAA), Practical IAM Foundations. This project demonstrates a practical, scenario-driven understanding of Identity & Access Management (IAM) using the IAAA security model: Identification → Authentication → Authorisation → Accountability. 
 https://github.com/Victorb98/-Identity-Authentication-Access-Control-IAAA-Practical-IAM-Foundations/blob/main/README.md
 
-🔐 Identity & Access Management (IAM), Access Control & SSO in Practice (Part 2). This project breaks down core IAM concepts in a practical, real-world way, not theory soup.
+🔐🎯 Identity & Access Management (IAM), Access Control & SSO in Practice (Part 2). This project breaks down core IAM concepts in a practical, real-world way, not theory soup.
 It covers how users authenticate, how access is authorised, and how organisations manage identities securely at scale using SSO, access control models (DAC, RBAC, MAC), and IAM vs IdM fundamentals.
 https://github.com/Victorb98/Identity-Access-Management-IAM-Access-Control-SSO-in-Practice-Part-2-
 
 🛡️ Recovering Active Directory After a Security Incident. This project simulates a real-world Active Directory compromise and documents the full incident response lifecycle from detection and investigation to containment and secure recovery.
 https://github.com/Victorb98/-Recovering-Active-Directory-After-a-Security-Incident/blob/main/README.md
 
-🔐 Inside the Mind of a Security Engineer: Building Real-World Cyber Defence Foundations. This project explores the real responsibilities, principles, and mindset of a modern Security Engineer, the role responsible for protecting an organisation’s digital world. 
+🔐🔍 Inside the Mind of a Security Engineer: Building Real-World Cyber Defence Foundations. This project explores the real responsibilities, principles, and mindset of a modern Security Engineer, the role responsible for protecting an organisation’s digital world. 
 https://github.com/Victorb98/-Inside-the-Mind-of-a-Security-Engineer-Building-Real-World-Cyber-Defense-Foundations/blob/main/README.md
 
-🔐 Security Principles, Models & Secure Design. This project is a hands-on exploration of foundational cybersecurity principles, security models, and secure system design concepts, completed through interactive labs and scenario-based questions.
+🕵🏽‍♂️🧐Security Principles, Models & Secure Design. This project is a hands-on exploration of foundational cybersecurity principles, security models, and secure system design concepts, completed through interactive labs and scenario-based questions.
 https://github.com/Victorb98/-Security-Principles-Models-Secure-Design/blob/main/README.md
 
 
