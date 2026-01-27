@@ -92,6 +92,8 @@ https://github.com/Victorb98/-Inside-the-Mind-of-a-Security-Engineer-Building-Re
 🕵🏽‍♂️🧐Security Principles, Models & Secure Design. This project is a hands-on exploration of foundational cybersecurity principles, security models, and secure system design concepts, completed through interactive labs and scenario-based questions.
 https://github.com/Victorb98/-Security-Principles-Models-Secure-Design/blob/main/README.md
 
+🛡️⚖ Vulnerability Management Lifecycle Project. This project demonstrates the full vulnerability management lifecycle in a realistic security operations workflow.
+https://github.com/Victorb98/-Vulnerability-Management-Lifecycle-Project
 
 ## 🏆 Certifications
 
