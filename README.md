@@ -95,6 +95,9 @@ https://github.com/Victorb98/-Security-Principles-Models-Secure-Design/blob/main
 🛡️⚖ Vulnerability Management Lifecycle Project. This project demonstrates the full vulnerability management lifecycle in a realistic security operations workflow.
 https://github.com/Victorb98/-Vulnerability-Management-Lifecycle-Project
 
+☁️🕵🏽‍♂️ Intro to Cloud Security & IAM Fundamentals. This project demonstrates my foundational understanding of cloud computing security concepts, with a strong focus on Identity & Access Management (IAM), cloud deployment models, service models, and the cloud data lifecycle.
+https://github.com/Victorb98/-Intro-to-Cloud-Security-IAM-Fundamentals/blob/main/README.md
+
 ## 🏆 Certifications
 
 - [ ]  CompTIA Security+
