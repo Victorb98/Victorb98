@@ -10,7 +10,7 @@ I build hands-on security skills across threat detection, incident response, Act
 
 🔍 Core strengths: SIEM alerting • Log analysis • Active Directory & IAM • Security automation • IR workflows
 
-💡 Mindset: Relentlessly curious. Allergic to shallow knowledge. I don’t collect certs , I build operational mastery.
+💡 Mindset: Relentlessly curious. Allergic to shallow knowledge. I don’t collect certs, I build operational mastery.
 
 💼 Open to entry-level & junior SOC, IAM, and Security Analyst roles.
 If you’re building a security team that takes identity seriously, we should talk.
@@ -97,6 +97,10 @@ https://github.com/Victorb98/-Vulnerability-Management-Lifecycle-Project
 
 ☁️🕵🏽‍♂️ Intro to Cloud Security & IAM Fundamentals. This project demonstrates my foundational understanding of cloud computing security concepts, with a strong focus on Identity & Access Management (IAM), cloud deployment models, service models, and the cloud data lifecycle.
 https://github.com/Victorb98/-Intro-to-Cloud-Security-IAM-Fundamentals/blob/main/README.md
+
+📌 Identity Governance & Risk Foundations Project. This project documents my practical understanding of Governance, Risk, and Compliance principles through structured scenario based assessments and regulatory mapping.
+https://github.com/Victorb98/Governance-Risk-and-Compliance-Deep-Dive-/blob/main/README.md
+
 
 ## 🏆 Certifications
 
