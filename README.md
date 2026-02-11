@@ -1,19 +1,19 @@
 # Hi, I'm Victor! 👋
 
-### Cybersecurity & Identity Practitioner | SOC & IAM (Identity-First Security)
+### Cybersecurity & Identity Practitioner | Identity First Security | SOC & IAM
 
-🛡️ Focused on where real breaches start and stop: identity, access, and detection.
+🛡️ I focus on the control plane of modern security: identity, access, and detection. Because when identity fails, everything fails.
 
-I build hands-on security skills across threat detection, incident response, Active Directory, IAM, and network defence, not in theory, but in labs that break, alert, and get fixed.
+I build and break real lab environments across Active Directory, Entra ID, SIEM pipelines, and identity attack paths, triggering alerts, analysing logs, and closing the loop with remediation. Not checkbox learning. Operational reps.
 
-📚 Learning by doing: TryHackMe • Hack The Box • Custom SOC labs • AD & identity attack simulations
+📚 Hands on ecosystem: TryHackMe • Hack The Box • Custom SOC labs • AD attack simulations • IAM lifecycle scenarios
 
-🔍 Core strengths: SIEM alerting • Log analysis • Active Directory & IAM • Security automation • IR workflows
+🔎 Core capability stack
+SIEM alerting • Log correlation • Active Directory hardening • IAM governance fundamentals • Privilege control • IR workflows • Security automation
 
-💡 Mindset: Relentlessly curious. Allergic to shallow knowledge. I don’t collect certs, I build operational mastery.
+💡 Mindset: Depth over noise. Reps over hype. I do not chase certificates. I build muscle memory in identity defence and threat detection.
 
-💼 Open to entry-level & junior SOC, IAM, and Security Analyst roles.
-If you’re building a security team that takes identity seriously, we should talk.
+💼 Actively pursuing junior SOC and IAM roles where access risk, governance, and detection engineering are taken seriously. If your team protects identity as the new perimeter, we will speak the same language.
 
 ## 💻 Cybersecurity Projects:
 Linux 101 Basics, mastered essential Linux commands and system hardening techniques to build a solid foundation for secure environments 🐧🔐.
