@@ -1,19 +1,38 @@
 # Hi, I'm Victor! 👋
 
-### Cybersecurity & Identity Practitioner | Identity First Security | SOC & IAM
+## SecOps Engineer (IGA) | Identity-First Security | IAM & Detection
 
-🛡️ I focus on the control plane of modern security: identity, access, and detection. Because when identity fails, everything fails.
+I secure the identity layer inside a global enterprise environment, focusing on access governance, least privilege, and operational identity security.
 
-I build and break real lab environments across Active Directory, Entra ID, SIEM pipelines, and identity attack paths, triggering alerts, analysing logs, and closing the loop with remediation. Not checkbox learning. Operational reps.
+**Identity is the control plane. If it fails, everything fails.**
 
-📚 Hands on ecosystem: TryHackMe • Hack The Box • Custom SOC labs • AD attack simulations • IAM lifecycle scenarios
+---
 
-🔎 Core capability stack
-SIEM alerting • Log correlation • Active Directory hardening • IAM governance fundamentals • Privilege control • IR workflows • Security automation
+### 🛠 What I Do
+- Support identity governance and access control operations (Joiner–Mover–Leaver, access reviews, privilege management)  
+- Monitor identity activity, investigate anomalies, and reduce access risk  
+- Work with Microsoft Entra ID, IAM workflows, and security operations processes  
+- Automate and streamline identity tasks using PowerShell and Microsoft Graph  
 
-💡 Mindset: Depth over noise. Reps over hype. I do not chase certificates. I build muscle memory in identity defence and threat detection.
+---
 
-💼 Actively pursuing junior SOC and IAM roles where access risk, governance, and detection engineering are taken seriously. If your team protects identity as the new perimeter, we will speak the same language.
+### 🧪 Hands-On Practice
+- Active Directory attack & defence labs  
+- Entra ID configurations and identity security scenarios  
+- SIEM alerting, log analysis, and incident response workflows  
+- Custom SOC labs focused on identity-based threats  
+
+---
+
+### ⚙️ Core Skills
+IAM Governance • Identity Security • SIEM & Log Analysis • Access Control  
+Privilege Management • Incident Response • AD Security • Automation  
+
+---
+
+### 💡 Mindset
+Depth over noise. Reps over hype.  
+I build real-world capability in identity defence and detection.
 
 ## 💻 Cybersecurity Projects:
 Linux 101 Basics, mastered essential Linux commands and system hardening techniques to build a solid foundation for secure environments 🐧🔐.
